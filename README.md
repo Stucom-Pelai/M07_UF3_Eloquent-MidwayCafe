@@ -15,6 +15,8 @@
 ![Screenshot (279)](https://user-images.githubusercontent.com/48250220/191908016-cfa165cb-36a7-464b-bd21-0b982ca9d39a.png)
 ![Screenshot (280)](https://user-images.githubusercontent.com/48250220/191908031-b358d407-a926-4463-987a-52aee91cb7dc.png)
 ![Screenshot (281)](https://user-images.githubusercontent.com/48250220/191908046-56d867fc-2553-457d-915c-09f773faec2e.png)
+
+## Back End
 ![Screenshot (272)](https://user-images.githubusercontent.com/48250220/191908062-7fd42d8a-780e-44a8-abff-bb0402d4192d.png)
 ![Screenshot (273)](https://user-images.githubusercontent.com/48250220/191908073-611afa48-98ef-4870-a8e3-631557bb3c84.png)
 ![Screenshot (274)](https://user-images.githubusercontent.com/48250220/191908089-c736bd30-a9a5-4346-8c2a-88017819cbb0.png)
@@ -22,13 +24,10 @@
 ![Screenshot (276)](https://user-images.githubusercontent.com/48250220/191908135-0130d841-0d83-4d94-ae5f-a3f01a5b7257.png)
 ![Screenshot (277)](https://user-images.githubusercontent.com/48250220/191908145-31df506c-13e8-427f-8787-5162100229b1.png)
 
-## Back End
-
-
-
 
 ## Database Tables
 
+![image](https://github.com/user-attachments/assets/a82da7e5-3b89-44c9-84f8-a81a75de73b2)
 
 
 ## Installation
@@ -46,7 +45,7 @@ Follow these instructions to set up and run the project locally on your machine.
 1. Clone the repository:
 
 ```bash
-   git clone 
+   git clone https://github.com/Stucom-Pelai/M07_UF3_Eloquent-MidwayCafe.git
 ```
 
 2. Install Composer dependencies:
